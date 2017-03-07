@@ -1,0 +1,6 @@
+TOPICS,WORD OCCURENCES PROBABILITY
+0,0.047*"enron" + 0.021*"research" + 0.016*"hous" + 0.014*"valuation" + 0.013*"praca" + 0.013*"dyplomowa" + 0.012*"paper" + 0.011*"conference" + 0.011*"release" + 0.010*"electricity" + 0.010*"presentation" + 0.009*"resume" + 0.009*"risk" + 0.008*"derivative" + 0.008*"site"
+1,0.063*"weekly" + 0.032*"power" + 0.030*"report" + 0.021*"meeting" + 0.019*"presentation" + 0.017*"model" + 0.016*"price" + 0.015*"rice" + 0.011*"finance" + 0.010*"enron" + 0.010*"book" + 0.010*"dinner" + 0.009*"latest" + 0.009*"mgmt" + 0.009*"year"
+2,0.029*"summer" + 0.024*"option" + 0.023*"internship" + 0.020*"invitation" + 0.020*"university" + 0.016*"class" + 0.014*"conference" + 0.014*"presentation" + 0.013*"texas" + 0.013*"update" + 0.012*"austin" + 0.011*"message" + 0.011*"market" + 0.011*"order" + 0.010*"approval"
+3,0.030*"course" + 0.027*"hello" + 0.025*"weather" + 0.021*"derivative" + 0.018*"vince" + 0.018*"request" + 0.013*"conference" + 0.011*"itinerary" + 0.010*"garp" + 0.010*"part" + 0.010*"paper" + 0.009*"recruiting" + 0.009*"evaluation" + 0.009*"speaker" + 0.008*"stanford"
+4,0.045*"resume" + 0.029*"energy" + 0.027*"visit" + 0.022*"interview" + 0.022*"whar" + 0.022*"project" + 0.016*"enron" + 0.016*"article" + 0.015*"eprm" + 0.014*"technical" + 0.014*"james" + 0.013*"california" + 0.012*"corner" + 0.011*"benchmarking" + 0.011*"petronas"

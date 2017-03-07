@@ -1,0 +1,6 @@
+TOPICS,WORD OCCURENCES PROBABILITY
+0,0.141*"mdea" + 0.058*"committee" + 0.058*"proposal" + 0.038*"missing" + 0.034*"split" + 0.021*"pseg" + 0.020*"message" + 0.020*"conference" + 0.019*"power" + 0.019*"call" + 0.019*"rotation" + 0.016*"agreement" + 0.009*"delete" + 0.009*"previous" + 0.009*"letter"
+1,0.108*"delta" + 0.069*"turbine" + 0.041*"contract" + 0.040*"order" + 0.034*"change" + 0.025*"issue" + 0.025*"favor" + 0.024*"piece" + 0.021*"document" + 0.015*"blue" + 0.014*"split" + 0.014*"call" + 0.014*"enron" + 0.014*"list" + 0.014*"number"
+2,0.073*"pegasus" + 0.066*"letter" + 0.047*"lunch" + 0.046*"agreement" + 0.034*"marketing" + 0.028*"option" + 0.027*"city" + 0.024*"dinner" + 0.023*"execution" + 0.016*"contract" + 0.016*"update" + 0.015*"version" + 0.015*"revised" + 0.014*"final" + 0.013*"compared"
+3,0.133*"agreement" + 0.107*"salmon" + 0.073*"energy" + 0.072*"turbine" + 0.060*"consent" + 0.056*"legal" + 0.030*"revised" + 0.019*"purchase" + 0.019*"letter" + 0.018*"cogen" + 0.017*"austin" + 0.016*"resort" + 0.016*"lake" + 0.015*"celebration" + 0.015*"question"
+4,0.116*"opinion" + 0.040*"agreement" + 0.037*"vepco" + 0.035*"assignment" + 0.033*"saturday" + 0.031*"transaction" + 0.025*"consent" + 0.024*"document" + 0.022*"comment" + 0.019*"purchase" + 0.019*"meeting" + 0.018*"beach" + 0.017*"enron" + 0.017*"contract" + 0.013*"edgecombe"
