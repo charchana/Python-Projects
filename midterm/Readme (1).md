@@ -44,12 +44,12 @@
 
 
 ## Code Result:
-!['yearly mails'](Question 1/Analysis 1/q1_a1_first.jpg)
+![q1_a1_first](https://cloud.githubusercontent.com/assets/25204050/23642048/3599ef58-02c6-11e7-8455-6846332618e5.JPG)
 
 ## Representation Result:
 
 - The year and the email frequency is exported as a csv file to make a further analysis on the data. The output looks like below
-!['yearly mails'](Question 1/Analysis 1/Q1_A1_Result.jpg)
+![q1_a1_result](https://cloud.githubusercontent.com/assets/25204050/23642117/6ae02b3c-02c6-11e7-88fb-1d38bc4eab5e.JPG)
 
 ## Inference:
 - From the above Result we can conclude that during the year 2000 and 2001 highest email communication has happened
@@ -65,7 +65,7 @@
 ## Process:
 - Calculating the months which has the highest mails and concentrating on those months of the years to check the persons involved
 
-!['yearly mails'](OutputFiles/q1_a2_first.jpg)
+![q1_a2_first](https://cloud.githubusercontent.com/assets/25204050/23642160/99874754-02c6-11e7-865f-d0a8f02d6e9f.JPG)
 
 - Iterating through the mails and finding the 'Date' tag of the email
 
@@ -90,7 +90,7 @@
 
 ## Results of the Analysis:
 
-!['yearly mails'](Question 1/Analysis 2/q1_a2_Second.jpg)
+![q1_a2_second](https://cloud.githubusercontent.com/assets/25204050/23642176/b106cdaa-02c6-11e7-8ef6-d5a93ade89e6.JPG)
 
 ## Inferences can be made:
 
@@ -154,7 +154,7 @@
 
 - The topics which were spoken by vince kaminski is as follows
 
-!['yearly mails'](Question 1/Analysis 3/topic_vince.jpg)
+![topic_vince](https://cloud.githubusercontent.com/assets/25204050/23642194/c4e86f36-02c6-11e7-807a-6fabe69f1249.JPG)
 
 
 - From the above image the different topics infers conclusions like below
@@ -171,7 +171,8 @@
 
 - The topics which were spoken by mann kay is as follows
 
-!['yearly mails'](Question 1/Analysis 3/topics_mann.jpg)
+![topics_mann](https://cloud.githubusercontent.com/assets/25204050/23642201/d4c88ed6-02c6-11e7-91cf-8291f7bb5881.JPG)
+
 
 - From the above image the different topics infers conclusions like below
 
@@ -235,9 +236,9 @@
 
 ## Results
 
-!['yearly mails'](Question 2/Analysis 1/q2_a1.jpg)
+![q2_a1](https://cloud.githubusercontent.com/assets/25204050/23642224/f87864aa-02c6-11e7-8495-13ad49339b74.JPG)
 
-!['yearly mails'](Question 2/Analysis 1/q2_a2.jpg)
+![q2_a2](https://cloud.githubusercontent.com/assets/25204050/23642217/ed8d357a-02c6-11e7-8128-09670ec39944.JPG)
 
 ## Inference:
 
@@ -276,7 +277,7 @@
 - Now the comparasion is made in the bar graph
 
 ## Results:
-!['yearly mails'](Question 2/Analysis 2/q2_a3.jpg)
+![q2_a3](https://cloud.githubusercontent.com/assets/25204050/23642235/09f3184c-02c7-11e7-9eb2-0a62a1e53df8.JPG)
 
 
 ## Inference:
@@ -311,7 +312,7 @@
 
 ## Results:
 
-!['yearly mails'](Question 2/Analysis 3/q2_a4.jpg)
+![q2_a4](https://cloud.githubusercontent.com/assets/25204050/23642245/1dc616da-02c7-11e7-8aeb-9710efeddbcf.JPG)
 
 ## Inference
 
