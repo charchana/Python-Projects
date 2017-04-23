@@ -71,7 +71,7 @@
 
 ## Number of movies releasing every year [2012-2015]
 
-### * Analyzing the number of movies which are releasing per month for the years 2012-2015*
+### *Analyzing the number of movies which are releasing per month for the years 2012-2015*
     
 ### Steps:
 
@@ -84,11 +84,11 @@
 
 ### Outputs:
 
-### * Table of values to plot *
+### *Table of values to plot*
 
 ![1 1_1](https://cloud.githubusercontent.com/assets/25204050/25309990/640a8af8-27a8-11e7-84fa-533a7f7df43f.JPG)
 
-### * Number of movies released for per month for year 2012-2015 *
+### *Number of movies released for per month for year 2012-2015*
 
 ![1 1_2](https://cloud.githubusercontent.com/assets/25204050/25310007/9e89b55a-27a8-11e7-8ec2-1525519bf4a2.JPG) 
 
@@ -110,11 +110,11 @@
 
 ### Outputs:
 
-### * Table of values to plot *
+### *Table of values to plot*
 
 ![1 2_1](https://cloud.githubusercontent.com/assets/25204050/25310014/bda28d9a-27a8-11e7-84ec-024a5d1b9e18.JPG) 
 
-### * Movies to watch and not to watch *
+### *Movies to watch and not to watch*
 
 ![1 2_2](https://cloud.githubusercontent.com/assets/25204050/25310021/dd7bdaea-27a8-11e7-8491-b4d1018d93b5.JPG)
 
@@ -137,11 +137,11 @@
 
 ### Outputs:
 
-### * Table of values*
+### *Table of values*
 
 ![1 3_1](https://cloud.githubusercontent.com/assets/25204050/25310026/efb61504-27a8-11e7-8aca-75f4aae11987.JPG)
 
-### * Top 3 Movies with High IMDB Rating for year 2012-2015 Posters *
+### *Top 3 Movies with High IMDB Rating for year 2012-2015 Posters*
 
 ![1 3_2](https://cloud.githubusercontent.com/assets/25204050/25310505/c6ebd31a-27b3-11e7-84b8-10f010b185c0.JPG)
 
@@ -171,11 +171,11 @@
 
 ### Outputs:
 
-### * Table of values to plot *
+### *Table of values to plot*
 
 ![2_1 1](https://cloud.githubusercontent.com/assets/25204050/25310050/6f258784-27a9-11e7-929a-f7b41b079d9a.JPG)
 
-### * Rating Distribution Worldwide *
+### *Rating Distribution Worldwide*
 
 ![2_1 2](https://cloud.githubusercontent.com/assets/25204050/25310055/7c74580c-27a9-11e7-8dc5-d5d91d6b0df2.JPG)
 
@@ -185,7 +185,7 @@
 
 ## Profits of USA UK and Worldwide
 
-## * Since USA and UK are producing more movies let's analyze how much profits they are have gained from the top 10 produced movies*
+## *Since USA and UK are producing more movies let's analyze how much profits they are have gained from the top 10 produced movies*
 
 ### Steps:
 
@@ -197,11 +197,11 @@
 
 ### Outputs:
 
-### * Sample table of values to plot by each country*
+### *Sample table of values to plot by each country*
 
 ![2_2 1](https://cloud.githubusercontent.com/assets/25204050/25310057/90dc1eec-27a9-11e7-8cc9-8bd0a452b607.JPG) 
 
-### * USA, UK and Wordwide top profitted movie *
+### *USA, UK and Wordwide top profitted movie*
 
 ![2_2 2](https://cloud.githubusercontent.com/assets/25204050/25310061/9b556a9a-27a9-11e7-8432-2f680e24f9de.JPG)
 
@@ -213,7 +213,7 @@
 
 - We can infer that whatever the country is movie Titanic is in top 3 and has gained profit worldwide, irrespective of its native country and has attained immense popularity across the world
 
-## * Movie Titanic Reached Highest Popularity Worldwide*
+## *Movie Titanic Reached Highest Popularity Worldwide*
 
 ### Steps:
 
@@ -228,7 +228,7 @@
 
 ![2_2 5](https://cloud.githubusercontent.com/assets/25204050/25310069/d238eb40-27a9-11e7-88aa-1d85e38451d9.JPG)
 
-### * Movie Titanic Gained More Popularity Worldwide Poster *
+### *Movie Titanic Gained More Popularity Worldwide Poster*
 
 ![titanic17-04-22-10-18](https://cloud.githubusercontent.com/assets/25204050/25310071/dcae6280-27a9-11e7-8f52-c01054b4d09d.jpg)
 
@@ -236,7 +236,7 @@
 
 ## Genres Released for 2012-2015 years
 
-## * Moving further lets's analyze the how many Crime, Mystery, Thriller, War and Action movies are released for 2012-2015 years*
+## *Moving further lets's analyze the how many Crime, Mystery, Thriller, War and Action movies are released for 2012-2015 years*
 
 ### Steps:
 
@@ -247,11 +247,11 @@
 
 ### Outputs:
 
-### * Sample Table of values to plot *
+### *Sample Table of values to plot*
 
 ![3_1 1](https://cloud.githubusercontent.com/assets/25204050/25310073/f2e6a67a-27a9-11e7-9646-eb6d21da898d.JPG)
 
-### * Crime, Mystery, Thriller, War and Action Genres for year 2012-2015 *
+### *Crime, Mystery, Thriller, War and Action Genres for year 2012-2015*
 
 ![3_1 2](https://cloud.githubusercontent.com/assets/25204050/25310075/ff18854e-27a9-11e7-9d62-7ebdcd887910.JPG)
 
@@ -260,7 +260,7 @@
 -- We can infer that thriller is the highest genre being released and we can also infer that genre crime is increasing and decreasing and then increasing again, on the whole these strong genres entertains the public with more of voilence scenes
 
 
-## * So let's analyse the population of the USA *
+## *So let's analyse the population of the USA*
 
 ### Steps:
 
@@ -273,7 +273,7 @@
 
 ### Outputs:
 
-### * Table of values to plot *
+### *Table of values to plot*
 
 1. USA Population Table for year 2015
 
@@ -283,11 +283,11 @@
 
 ![3_2 2](https://cloud.githubusercontent.com/assets/25204050/25310082/15a319c8-27aa-11e7-9c4b-eb072ebb37f8.JPG)
 
-### * USA Population density for year 2015 *
+### *USA Population density for year 2015*
 
 ![3_2 3](https://cloud.githubusercontent.com/assets/25204050/25310084/21e1829c-27aa-11e7-8e54-4eb05daabd2d.JPG)
 
-### *Increase in population of USA 2012-2015 *
+### *Increase in population of USA 2012-2015*
 
 ![3_2 4](https://cloud.githubusercontent.com/assets/25204050/25310088/381928e4-27aa-11e7-934e-2d6e4620d39d.JPG)
 
@@ -310,7 +310,7 @@
 
 ### Outputs:
 
-### * Table of values to plot *
+### *Table of values to plot*
 
 1. USA Crime Table for year 2015
 
@@ -320,11 +320,11 @@
 
 ![3_3 3](https://cloud.githubusercontent.com/assets/25204050/25310098/70102a68-27aa-11e7-897e-67e8236bda3b.JPG)
 
-### * USA Crime density for year 2015 *
+### *USA Crime density for year 2015*
 
 ![3_3 2](https://cloud.githubusercontent.com/assets/25204050/25310101/7db7f1aa-27aa-11e7-9a34-b1f3a76b708d.JPG)
 
-### * Number of crimes by category [2012-2015] *
+### *Number of crimes by category [2012-2015]*
 
 ![3_3 4](https://cloud.githubusercontent.com/assets/25204050/25310104/876aa4f4-27aa-11e7-9eec-f0e585be11ee.JPG)
 
@@ -334,7 +334,7 @@
 
 ## Influence of Movies on the increase of voilent crimes in the USA
 
-## * Since the voilent crimes have not decreased for any year let's analyse whether the movies have any influence on these voilent crimes.*
+## *Since the voilent crimes have not decreased for any year let's analyse whether the movies have any influence on these voilent crimes.*
 
 ### Steps:
 
@@ -344,11 +344,11 @@
 
 ### Outputs:
 
-### * Sample Table of values to plot *
+### *Sample Table of values to plot*
 
 ![3_4 1](https://cloud.githubusercontent.com/assets/25204050/25310108/9927ceec-27aa-11e7-8ff6-4dd8a192dd82.JPG) 
 
-### * Influence of movies on Crimes [2012-2015]*
+### *Influence of movies on Crimes [2012-2015]*
 
 ![3_4 2](https://cloud.githubusercontent.com/assets/25204050/25310110/a19c5d86-27aa-11e7-8573-31386b4bed2a.JPG)
 
